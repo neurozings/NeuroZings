@@ -75,7 +75,7 @@ export const socials = [
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    url: 'https://www.linkedin.com/company/neurozings/',
   },
   {
     name: 'instagram',
