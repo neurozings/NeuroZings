@@ -73,6 +73,10 @@ export const socials = [
     name: 'twitter',
     url: '/twitter.svg',
   },
+    {
+    name: 'x',
+    url: 'https://x.com/neurozings',
+  },
   {
     name: 'linkedin',
     url: 'https://www.linkedin.com/company/neurozings/',
